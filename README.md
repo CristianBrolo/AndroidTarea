@@ -20,8 +20,11 @@ Estimados Compañeros, por este medio les comparto la Tarea de Android que estar
 
 9) Finalmente se establecen las relaciones de las variables con sus multiples idiomas. En este caso el Botón y la Bienvenida.
 
-HE NOTADO QUE EN GITHUB NO SE HA SUBIDO LA TAREA COMPLETA (LAS IMAGENES SI SE VEN) EL ARCHIVO RAR NO, FAVOR ESCRIBIRME A: cristian@dondeloschinos.com
-PARA ENVIARLES EL CONTENIDO DE LA TAREA!!
+HE NOTADO QUE EN GITHUB NO SE HA SUBIDO LA TAREA COMPLETA (LAS IMAGENES SI SE VEN) EL ARCHIVO RAR NO, COLOCO POR ESTE MEDIO EL VÍNCULO PARA DESCARGAR LA TAREA:
+
+https://drive.google.com/folderview?id=0Bx_mMnsqE3oGcnloUmpOLTJvdHM&usp=sharing
+
+ESTA ABIERTO PARA TODO EL PUBLICO :)
 
 
 
