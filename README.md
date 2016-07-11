@@ -20,7 +20,7 @@ Estimados Compañeros, por este medio les comparto la Tarea de Android que estar
 
 9) Finalmente se establecen las relaciones de las variables con sus multiples idiomas. En este caso el Botón y la Bienvenida.
 
-HE NOTADO QUE EN GITHUB NO SE HA SUBIDO LA TAREA Y TODAS LAS IMAGENES, FAVOR ESCRIBIRME A: cristian@dondeloschinos.com
+HE NOTADO QUE EN GITHUB NO SE HA SUBIDO LA TAREA COMPLETA (LAS IMAGENES SI SE VEN) EL ARCHIVO RAR NO, FAVOR ESCRIBIRME A: cristian@dondeloschinos.com
 PARA ENVIARLES EL CONTENIDO DE LA TAREA!!
 
 
